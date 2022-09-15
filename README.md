@@ -11,5 +11,4 @@ This version doesn't, if you're luckt and you upload a bunch of images within an
 
 ## Credits
 [Tyris#0001](https://www.0x54.pw/) <br>
-[Pawel630](https://)
 
